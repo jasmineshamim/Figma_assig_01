@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+  .footer_section{
+   width: auto;
+   height: 160px;
+   gap: 0px;
+   opacity: 0px;
+   background-color:  #FAF5F5;
+  }
+  .first_page{
+    height: 700px;
+    width: auto;
+    background-color: #FAF5F5;
+  }
+
+  .icons_section{
+    color: #21243D;
+    ;
+  }
+  .secondary_text {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+ 
+}
+.bg{
+  background-color: #FAF5F5;
+}
+.hero_section{
+
+  height: 308px;
+  width: 1000px;
+  margin-left: 220px;
+  margin-top: 150px;
+  background-color: #FAF5F5;
+  
+}
+.hero_text{
+  color: #21243D;
+}
+.button{
+  width: 205px; 
+  height: 50px;
+  margin-top: 58px;
+  background-color: #F98585;
+}
+.img{
+  width: 292px;
+  height: 299px;
+  /* border-radius: 50%; */
+}
+.recent_post{
+  height: 550px;
+  width: auto;
+  background-color: #F4E2E2;
+
+}
+.view{
+  color: #F98585;
+}
+.rect{
+  background-color: #F98585;
+}
+.group{
+  color:#000000B2;
+}
+.amet{
+  color: #21243D;
+}
+
+.head{
+  color: #0000009E;
+}
+
+}

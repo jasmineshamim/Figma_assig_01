@@ -6,16 +6,16 @@ export default function FooterSection() {
         <footer className="py-6">
             <div className="flex justify-center space-x-6">
                 <a href="#" target="_blank" rel="noopener noreferrer">
-                    <FaFacebook className="w-8 h-8 hover:text-blue-600 transition-colors" />
+                    <FaFacebook className="icons_section w-8 h-8 hover:text-blue-600 transition-colors" />
                 </a>
                 <a href="#" target="_blank" rel="noopener noreferrer">
-                    <FaInstagram className="w-8 h-8 hover:text-pink-500 transition-colors" />
+                    <FaInstagram className="icons_section w-8 h-8 hover:text-pink-500 transition-colors" />
                 </a>
                 <a href="#" target="_blank" rel="noopener noreferrer">
-                    <FaTwitter className="w-8 h-8 hover:text-blue-400 transition-colors" />
+                    <FaTwitter className="icons_section w-8 h-8 hover:text-blue-400 transition-colors" />
                 </a>
                 <a href="#" target="_blank" rel="noopener noreferrer">
-                    <FaLinkedin className="w-8 h-8 hover:text-blue-700 transition-colors" />
+                    <FaLinkedin className="icons_section w-8 h-8 hover:text-blue-700 transition-colors" />
                 </a>
             </div>
 
